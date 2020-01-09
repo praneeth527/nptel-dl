@@ -9,7 +9,7 @@
 
 By ***Praneeth Kumar Reddy Ballarapu*** (praneeth14)
 
-[![nptel-dl-1-0.png](https://github.com/praneeth14/nptel-dl/intro.PNG)](https://github.com/praneeth14/nptel-dl/intro.PNG)
+[![intro.png](https://i.postimg.cc/ZY9TG0Ps/intro.png)](https://postimg.cc/F145crB0)
 
 
 ### Before creating an issue, please do the following:
