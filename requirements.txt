@@ -1,0 +1,7 @@
+requests
+argparse
+bs4
+lxml
+youtube_dl
+colorama
+termcolor
