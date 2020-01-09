@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/badge/release-v0.5-brightgreen.svg?style=flat-square)](https://github.com/praneeth14/nptel-dl/releases/tag/v0.5)
+[![GitHub release](https://img.shields.io/badge/release-v0.5-brightgreen.svg?style=flat-square)](https://github.com/praneeth14/nptel-dl/releases/tag/v1.0)
 [![GitHub stars](https://img.shields.io/github/stars/praneeth14/nptel-dl.svg?style=flat-square)](https://github.com/praneeth14/nptel-dl/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/praneeth14/nptel-dl.svg?style=flat-square)](https://github.com/praneeth14/nptel-dl/network)
 [![GitHub issues](https://img.shields.io/github/issues/praneeth14/nptel-dl.svg?style=flat-square)](https://github.com/praneeth14/nptel-dl/issues)
