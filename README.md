@@ -7,7 +7,9 @@
 # nptel-dl
 **A cross-platform python based utility to download course videos from NPTEL.**
 
-<!-- [![udemy-dl-0-5.png](https://s26.postimg.cc/67x3wfak9/udemy-dl-0-5.png)](https://postimg.cc/image/s73ijmred/) -->
+By ***Praneeth Kumar Reddy Ballarapu*** (praneeth14)
+
+[![nptel-dl-1-0.png](https://github.com/praneeth14/nptel-dl/intro.PNG)](https://github.com/praneeth14/nptel-dl/intro.PNG)
 
 
 ### Before creating an issue, please do the following:
@@ -93,7 +95,7 @@ You can download the latest version of nptel-dl by cloning the GitHub repository
 ## **Advanced Usage**
 
 <pre><code>
-Author: praneeth14 (<a href="">praneeth14</a>)
+Author: Praneeth Kumar Reddy Ballarapu (<a href="">praneeth14</a>)
 
 usage: nptel-dl.py [-h] --c C [--q Q]
 
